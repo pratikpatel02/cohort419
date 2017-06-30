@@ -5,7 +5,7 @@ package com.fanniemae;
 //another change
 public class HellowWorld {
 
-	publis statuc void main(String[] args){
+	publis static void main(String[] args){
 
 		System.out.println ("Welcome to Java");
 	}
